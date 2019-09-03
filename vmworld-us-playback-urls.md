@@ -8,8 +8,25 @@ Total Sessions Posted: 560
 
 Total Sessions NOT posted: 67
 
+## Table of Content
 
-## Digital Workspace (73)
+* [Digital Workspace](#digital-workspace) (73)
+
+* [Emerging Trends](#emerging-trends) (39)
+
+* [Hybrid Cloud](#hybrid-cloud) (267)
+
+* [Modern Apps](#modern-apps) (57)
+
+* [Multi-Cloud](#multi-cloud) (27)
+
+* [Network and Security](#network-and-security) (91)
+
+* [Showcase Keynote](#showcase-keynote) (7)
+
+* [VMware Code](#vmware-code) (66)
+
+## Digital Workspace
 Session | Title | Stream | Download | PDF
 ---|---|---|---|---
 ADV1045BU | Horizon Cloud on Microsoft Azure: Technical Deep Dive | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27728) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/ADV1045BU.mp4) | NO PDF POSTED
@@ -86,7 +103,7 @@ UEM3121BU | Employee Experience Management for the Modern Workplace | [STREAM](h
 UEM3592BUS | BeyondCorp: a new approach to enterprise security | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27394) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/UEM3592BUS.mp4) | NO PDF POSTED
 UEM3675BUS | Juggling Okta, Workspace ONE, and Office 365 | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27881) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/UEM3675BUS.mp4) | NO PDF POSTED
 
-## Emerging Trends (39)
+## Emerging Trends
 Session | Title | Stream | Download | PDF
 ---|---|---|---|---
 EIOT2688BU | Chitale: VMware Pulse IoT Center Automates a Leading Dairy Factory in India | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27458) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/EIOT2688BU.mp4) | NO PDF POSTED
@@ -129,7 +146,7 @@ OCTO2746BU | Big Memory with VMware Cluster Memory | [STREAM](https://videos.vmw
 OCTO2793BU | Employee Superpowers with Spatial Computing and Artificial Intelligence | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27613) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/OCTO2793BU.mp4) | NO PDF POSTED
 OCTO2944BU | Armed and Ready: VMware Tech and Solutions on Arm-Based Systems | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27315) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/OCTO2944BU.mp4) | NO PDF POSTED
 
-## Hybrid Cloud (267)
+## Hybrid Cloud
 Session | Title | Stream | Download | PDF
 ---|---|---|---|---
 HBI1038BU | Deploy and Maintain K8s Infrastructure with PKS on VMware Cloud Foundation | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27568) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBI1038BU.mp4) | NO PDF POSTED
@@ -400,7 +417,7 @@ HCI3450BU | vSAN Best Practices | [STREAM](https://videos.vmworld.com/global/201
 HCI3451BU | vSphere External Storage for the Hybrid Cloud | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28872) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HCI3451BU.mp4) | NO PDF POSTED
 MCO2457BU | vRealize Suite Lifecycle Manager - Technical Deep Dive and Troubleshooting | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28789) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/MCO2457BU.mp4) | NO PDF POSTED
 
-## Modern Apps (57)
+## Modern Apps
 Session | Title | Stream | Download | PDF
 ---|---|---|---|---
 BCA1116BU | Architecting Business-Critical Oracle Workloads on the VMware SDDC Platform | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
@@ -461,7 +478,7 @@ KUB3507BUS | Running Enterprise Grade Kubernetes on vSAN: Google Anthos and VMwa
 KUB4114BU | Enterprise-ready Kubernetes: Your Path to Cloud-native Applications with Dell Technologies | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27628) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/KUB4114BU.mp4) | NO PDF POSTED
 KUB4298BUS | You???ve made Kubernetes available to your Developers, Now What? | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29004) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/KUB4298BUS.mp4) | NO PDF POSTED
 
-## Multi-Cloud (27)
+## Multi-Cloud
 Session | Title | Stream | Download | PDF
 ---|---|---|---|---
 MCO1169BU | Manage Cost in Hundreds of Kubernetes Clusters in a Multi-Cloud Environment | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27960) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/MCO1169BU.mp4) | NO PDF POSTED
@@ -492,7 +509,7 @@ MCO3531BU | Securing your Software Supply Chain in a Multi-cloud World  | [STREA
 MCO3538BUS | Best Practices for Cloud Migration and Acceleration  | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27365) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/MCO3538BUS.mp4) | NO PDF POSTED
 MCO4151BUS | ???In Defense of the Multi-Cloud | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27840) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/MCO4151BUS.mp4) | NO PDF POSTED
 
-## Network & Security (91)
+## Network and Security
 Session | Title | Stream | Download | PDF
 ---|---|---|---|---
 CNET1028BU | Demystifying the NSX-T Control and Data Plane | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27567) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CNET1028BU.mp4) | NO PDF POSTED
@@ -587,7 +604,7 @@ T5G2264BU | Ericsson Virtual Packet Gateway on vCloud NFV: Cooperation and Optim
 T5G3863BUS | Samsung Knox:  Evolution to Hyper-Connectivity | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28258) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G3863BUS.mp4) | NO PDF POSTED
 T5G3864BU | Evolving your network with 5G and SD-WAN | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27924) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G3864BU.mp4) | NO PDF POSTED
 
-## Showcase Keynote (7)
+## Showcase Keynote
 Session | Title | Stream | Download | PDF
 ---|---|---|---|---
 DW3459KU | Showcase Keynote: Becoming a Champion of Digital Employee Experience | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28314) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/DW3459KU.mp4) | NO PDF POSTED
@@ -598,7 +615,7 @@ MOD3543KU | Showcase Keynote: Kubernetes and the Cloud Native Journey | [STREAM]
 NETS3413KU | Showcase Keynote: Networking and Security for the Cloud Era  | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28320) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/NETS3413KU.mp4) | NO PDF POSTED
 SEC3412KU | Showcase Keynote: Intrinsic Security - How Your VMware Infrastructure Can Turn the Tide in Cybersecurity  | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28317) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SEC3412KU.mp4) | NO PDF POSTED
 
-## VMware Code (66)
+## VMware Code
 Session | Title | Stream | Download | PDF
 ---|---|---|---|---
 CODE1151UR | Build Your First Kubernetes Cluster on vSphere with Kubeadm | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27428) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1151UR.mp4) | NO PDF POSTED
