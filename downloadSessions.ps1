@@ -5,7 +5,7 @@ param(
 $lines = Get-Content -Path $sessionsToDownloadFile | Where-Object { $_.Trim() -ne '' }
 
 #VMworld US use referer = "http://www.vmware.com"
-#VMworld EU use referer = "https://videos.vmworld.com/global/2018/videoplayer/26950"
+#VMworld EU use referer = "https://videos.vmworld.com/global/2019/videoplayer/28955"
 
 $headers = @{"referer" = "http://www.vmware.com"}
 
@@ -25,6 +25,7 @@ foreach ($line in $lines) {
     }
     else {
         Write-Host "Downloading $title ..."
+        $progressPreference = 'silentlyContinue'
         Invoke-WebRequest -Uri $url -Headers $headers -Outfile $title
     }
 }

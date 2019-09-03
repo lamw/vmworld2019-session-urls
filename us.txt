@@ -494,4 +494,68 @@
 [T5G2264BU] - Ericsson Virtual Packet Gateway on vCloud NFV: Cooperation and Optimization#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G2264BU.mp4
 [T5G3863BUS] - Samsung Knox:  Evolution to Hyper-Connectivity#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G3863BUS.mp4
 [T5G3864BU] - Evolving your network with 5G and SD-WAN#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G3864BU.mp4
+[DW3459KU] - Showcase Keynote: Becoming a Champion of Digital Employee Experience#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/DW3459KU.mp4
+[HCI3551KU] - Showcase Keynote: HCI - The Foundation for your Future-proof Infrastructure#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HCI3551KU.mp4
+[HYB3544KU] - Showcase Keynote: Hybrid Cloud ??? Transform Infrastructure and Operations from the Data Center to the Cloud#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HYB3544KU.mp4
+[MC3545KU] - Showcase Keynote: Multi-Cloud Strategies to Operate at Scale#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/MC3545KU.mp4
+[MOD3543KU] - Showcase Keynote: Kubernetes and the Cloud Native Journey#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/MOD3543KU.mp4
+[NETS3413KU] - Showcase Keynote: Networking and Security for the Cloud Era #https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/NETS3413KU.mp4
+[SEC3412KU] - Showcase Keynote: Intrinsic Security - How Your VMware Infrastructure Can Turn the Tide in Cybersecurity #https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SEC3412KU.mp4
+[CODE1151UR] - Build Your First Kubernetes Cluster on vSphere with Kubeadm#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1151UR.mp4
+[CODE1152U] - Deploying Kubernetes Apps on PKS Using Native Tools, Helm, and Operators#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1152U.mp4
+[CODE1156U] - Applying Blockchain to Applications: Where and How#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1156U.mp4
+[CODE1162U] - Build Cloud Native Applications the Kubernetes Way: The Lessons We Learned#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1162U.mp4
+[CODE1166U] - How We Utilize Cluster API to Deliver Kubernetes on Multiple Providers#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1166U.mp4
+[CODE1172UR] - The Genius of Kubernetes#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1172UR.mp4
+[CODE1178U] - Make a Kubernetes App Publicly Accessible: Load Balancer vs. Ingress#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1178U.mp4
+[CODE1202U] - Hands on with Microservices and Service Mesh on VMware PKS#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1202U.mp4
+[CODE1316UR] - Horizon 7 Automation 101: How to Get Started with the Horizon API#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1316UR.mp4
+[CODE1360U] - Kubernetes Operators for VMware Enterprise PKS and VMware Cloud PKS#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1360U.mp4
+[CODE1369U] - Cloud Native Storage: Persistence for Stateful Apps#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1369U.mp4
+[CODE1379UR] - "If This Then That" for vSphere - The Power of Event-Driven Automation#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1379UR.mp4
+[CODE1458U] - Using VMware EUC APIs for Automation from a Fling Engineer#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1458U.mp4
+[CODE1567U] - Getting Started with VMware {code} Unified Endpoint Management Samples#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1567U.mp4
+[CODE1569U] - How to Create Custom Auto-Remediation and Rules in VMware Secure State#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1569U.mp4
+[CODE1617UR] - NSX Automation with Ansible: A Complete Guide for Day 0 Operations#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1617UR.mp4
+[CODE1635U] - How Support and Feature Requests Work in Open-Source Projects (Kubernetes)#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1635U.mp4
+[CODE1696U] - Automating vRealize Network Insight with PowerShell and Python#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1696U.mp4
+[CODE1716U] - DevOps Lessons at the Edge for Cloud Architects#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1716U.mp4
+[CODE1725U] - Your Kubernetes Cluster, Namespaces, and You#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1725U.mp4
+[CODE1785U] - Using AWS Lambda Functions for Multi-Cloud Governance#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1785U.mp4
+[CODE1797U] - Getting Started with Boto3, the AWS SDK for Python#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1797U.mp4
+[CODE1804U] - Zero to App: Building Your First Application in Kubernetes#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1804U.mp4
+[CODE1817UR] - Automating vCenter Server Appliance Update Lifecycle with APIs and PowerCLI#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1817UR.mp4
+[CODE1916U] - VI Admin's Guide: CNA and 12 Factors to Run and Manage Apps on PKS#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1916U.mp4
+[CODE1992U] - Simplifying Operations by Advancing Your Network with VMware SD-WAN#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1992U.mp4
+[CODE2007U] - An Essential Guide to Modernizing Windows-Based Workloads into Containers#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2007U.mp4
+[CODE2214U] - How PowerCLI Makes vSphere Configuration Management Easy#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2214U.mp4
+[CODE2215U] - Deep Dive on VMware Cloud on AWS APIs for Automation#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2215U.mp4
+[CODE2216U] - The Art of Code That Writes Code#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2216U.mp4
+[CODE2219U] - Python 101 for the vAdmin#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2219U.mp4
+[CODE2394U] - Hybrid Cloud: Configuration and Day-to-Day Operations the API/CLI Way#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2394U.mp4
+[CODE2484U] - Rolling out vRealize Orchestrator Content with Git and Concourse#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2484U.mp4
+[CODE2544U] - Program NSX-T Network and Security Using Python/Java#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2544U.mp4
+[CODE2639U] - Application Lifecycle with Kubernetes and Cloud Automation Services#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2639U.mp4
+[CODE2649U] - How PowerCLI Gives Day 1 Access to the Latest VMware APIs#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2649U.mp4
+[CODE2672U] - Understanding Your Kubernetes Cluster#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2672U.mp4
+[CODE2717U] - DevOps in Real Time: More Secure, Automatic Cloud Native App Updates with NSX and Bitnami#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2717U.mp4
+[CODE2796U] - Creating Your First Augmented Reality or Virtual Reality App#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2796U.mp4
+[CODE2807U] - Application Performance Management with Wavefront and a PKS Application#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2807U.mp4
+[CODE2995U] - Demystifying Istio and Envoy  #https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2995U.mp4
+[CODE3057U] - Be the Ninja: Jump-Start into Containers and Kubernetes for IT Ops#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3057U.mp4
+[CODE3059U] - Use NSX-SM and Consul Connect to Federate Kubernetes and AWS EC2 Workloads#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3059U.mp4
+[CODE3326U] - Building and Controlling Modern REST APIs with OpenAPI and Kong#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3326U.mp4
+[CODE3327U] - Getting Started with Terraform and Ansible#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3327U.mp4
+[CODE3328U] - Kubernetes on AWS, You Don???t Need a PHD to Deploy and Manage#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3328U.mp4
+[CODE3330U] - Automating Builds and Deployments, aka CI/CD for Dummies#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3330U.mp4
+[CODE3331U] - Machine Learning in Less Than 1 Hour with Python#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3331U.mp4
+[CODE3332U] - The Circle of (Token) Life#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3332U.mp4
+[CODE3333U] - Save the IT Department: Add the Development Platform to Your Portfolio#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3333U.mp4
+[CODE3452U] - How to not go broke with CI/CD deployments#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3452U.mp4
+[CODE3453U] - The Fundamentals of Automating Software Delivery with Spinnaker#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3453U.mp4
+[CODE3454U] - Why and How Spinnaker and Kubernetes Work Together Seamlessly#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3454U.mp4
+[CODE3455U] - Deploying an OpenShift Cluster with ???VMware Cloud Assembly???#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3455U.mp4
+[CODE3457U] - Achieving predictable response time for micro service based applications#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3457U.mp4
+[CODE3458U] - Achieving predictable response time for micro service based applications#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3458U.mp4
+[CODE4840U] - Continuous Verification: The Missing Link to Fully Automate Your Pipeline#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE4840U.mp4
 

@@ -2,11 +2,11 @@
 
 Here is a nice summary list of all VMworld US 2019 Breakout session with the respective video playback & download URLs. Enjoy!
 
-Total: 554
+Total: 627
 
-Total Sessions Posted: 496
+Total Sessions Posted: 560
 
-Total Sessions NOT posted: 58
+Total Sessions NOT posted: 67
 
 
 ## Digital Workspace (73)
@@ -586,3 +586,85 @@ T5G1919BU | Deploying VMware vCloud NFV Integrated OpenStack: A Step-by-Step App
 T5G2264BU | Ericsson Virtual Packet Gateway on vCloud NFV: Cooperation and Optimization | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27629) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G2264BU.mp4) | NO PDF POSTED
 T5G3863BUS | Samsung Knox:  Evolution to Hyper-Connectivity | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28258) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G3863BUS.mp4) | NO PDF POSTED
 T5G3864BU | Evolving your network with 5G and SD-WAN | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27924) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/T5G3864BU.mp4) | NO PDF POSTED
+
+## Showcase Keynote (7)
+Session | Title | Stream | Download | PDF
+---|---|---|---|---
+DW3459KU | Showcase Keynote: Becoming a Champion of Digital Employee Experience | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28314) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/DW3459KU.mp4) | NO PDF POSTED
+HCI3551KU | Showcase Keynote: HCI - The Foundation for your Future-proof Infrastructure | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28315) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HCI3551KU.mp4) | NO PDF POSTED
+HYB3544KU | Showcase Keynote: Hybrid Cloud ??? Transform Infrastructure and Operations from the Data Center to the Cloud | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28316) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HYB3544KU.mp4) | NO PDF POSTED
+MC3545KU | Showcase Keynote: Multi-Cloud Strategies to Operate at Scale | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28319) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/MC3545KU.mp4) | NO PDF POSTED
+MOD3543KU | Showcase Keynote: Kubernetes and the Cloud Native Journey | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28318) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/MOD3543KU.mp4) | NO PDF POSTED
+NETS3413KU | Showcase Keynote: Networking and Security for the Cloud Era  | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28320) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/NETS3413KU.mp4) | NO PDF POSTED
+SEC3412KU | Showcase Keynote: Intrinsic Security - How Your VMware Infrastructure Can Turn the Tide in Cybersecurity  | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28317) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/SEC3412KU.mp4) | NO PDF POSTED
+
+## VMware Code (66)
+Session | Title | Stream | Download | PDF
+---|---|---|---|---
+CODE1151UR | Build Your First Kubernetes Cluster on vSphere with Kubeadm | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27428) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1151UR.mp4) | NO PDF POSTED
+CODE1152U | Deploying Kubernetes Apps on PKS Using Native Tools, Helm, and Operators | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27573) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1152U.mp4) | NO PDF POSTED
+CODE1156U | Applying Blockchain to Applications: Where and How | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27292) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1156U.mp4) | NO PDF POSTED
+CODE1162U | Build Cloud Native Applications the Kubernetes Way: The Lessons We Learned | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27414) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1162U.mp4) | NO PDF POSTED
+CODE1166U | How We Utilize Cluster API to Deliver Kubernetes on Multiple Providers | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27794) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1166U.mp4) | NO PDF POSTED
+CODE1172UR | The Genius of Kubernetes | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28408) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1172UR.mp4) | NO PDF POSTED
+CODE1178U | Make a Kubernetes App Publicly Accessible: Load Balancer vs. Ingress | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27947) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1178U.mp4) | NO PDF POSTED
+CODE1202U | Hands on with Microservices and Service Mesh on VMware PKS | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27705) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1202U.mp4) | NO PDF POSTED
+CODE1316UR | Horizon 7 Automation 101: How to Get Started with the Horizon API | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27722) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1316UR.mp4) | NO PDF POSTED
+CODE1360U | Kubernetes Operators for VMware Enterprise PKS and VMware Cloud PKS | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27913) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1360U.mp4) | NO PDF POSTED
+CODE1369U | Cloud Native Storage: Persistence for Stateful Apps | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27470) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1369U.mp4) | NO PDF POSTED
+CODE1379UR | "If This Then That" for vSphere - The Power of Event-Driven Automation | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27828) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1379UR.mp4) | NO PDF POSTED
+CODE1458U | Using VMware EUC APIs for Automation from a Fling Engineer | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28482) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1458U.mp4) | NO PDF POSTED
+CODE1567U | Getting Started with VMware {code} Unified Endpoint Management Samples | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27692) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1567U.mp4) | NO PDF POSTED
+CODE1569U | How to Create Custom Auto-Remediation and Rules in VMware Secure State | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27764) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1569U.mp4) | NO PDF POSTED
+CODE1617UR | NSX Automation with Ansible: A Complete Guide for Day 0 Operations | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28088) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1617UR.mp4) | NO PDF POSTED
+CODE1635U | How Support and Feature Requests Work in Open-Source Projects (Kubernetes) | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27756) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1635U.mp4) | NO PDF POSTED
+CODE1696U | Automating vRealize Network Insight with PowerShell and Python | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27345) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1696U.mp4) | NO PDF POSTED
+CODE1716U | DevOps Lessons at the Edge for Cloud Architects | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27584) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1716U.mp4) | NO PDF POSTED
+CODE1725U | Your Kubernetes Cluster, Namespaces, and You | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29003) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1725U.mp4) | NO PDF POSTED
+CODE1785U | Using AWS Lambda Functions for Multi-Cloud Governance | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28479) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1785U.mp4) | NO PDF POSTED
+CODE1797U | Getting Started with Boto3, the AWS SDK for Python | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27687) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1797U.mp4) | NO PDF POSTED
+CODE1801U | What Is Service Mesh, and Why Do I Need One? | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
+CODE1804U | Zero to App: Building Your First Application in Kubernetes | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29005) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1804U.mp4) | NO PDF POSTED
+CODE1817UR | Automating vCenter Server Appliance Update Lifecycle with APIs and PowerCLI | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27342) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1817UR.mp4) | NO PDF POSTED
+CODE1916U | VI Admin's Guide: CNA and 12 Factors to Run and Manage Apps on PKS | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28504) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1916U.mp4) | NO PDF POSTED
+CODE1992U | Simplifying Operations by Advancing Your Network with VMware SD-WAN | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28326) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE1992U.mp4) | NO PDF POSTED
+CODE2007U | An Essential Guide to Modernizing Windows-Based Workloads into Containers | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27280) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2007U.mp4) | NO PDF POSTED
+CODE2214U | How PowerCLI Makes vSphere Configuration Management Easy | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27754) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2214U.mp4) | NO PDF POSTED
+CODE2215U | Deep Dive on VMware Cloud on AWS APIs for Automation | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27553) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2215U.mp4) | NO PDF POSTED
+CODE2216U | The Art of Code That Writes Code | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28393) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2216U.mp4) | NO PDF POSTED
+CODE2219U | Python 101 for the vAdmin | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28214) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2219U.mp4) | NO PDF POSTED
+CODE2221U | Achieving Predictable Response Time for Micro Service Based Applications on a Service Mesh | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
+CODE2394U | Hybrid Cloud: Configuration and Day-to-Day Operations the API/CLI Way | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27806) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2394U.mp4) | NO PDF POSTED
+CODE2484U | Rolling out vRealize Orchestrator Content with Git and Concourse | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28244) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2484U.mp4) | NO PDF POSTED
+CODE2544U | Program NSX-T Network and Security Using Python/Java | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28199) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2544U.mp4) | NO PDF POSTED
+CODE2639U | Application Lifecycle with Kubernetes and Cloud Automation Services | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27288) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2639U.mp4) | NO PDF POSTED
+CODE2649U | How PowerCLI Gives Day 1 Access to the Latest VMware APIs | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27753) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2649U.mp4) | NO PDF POSTED
+CODE2672U | Understanding Your Kubernetes Cluster | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28462) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2672U.mp4) | NO PDF POSTED
+CODE2717U | DevOps in Real Time: More Secure, Automatic Cloud Native App Updates with NSX and Bitnami | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27583) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2717U.mp4) | NO PDF POSTED
+CODE2796U | Creating Your First Augmented Reality or Virtual Reality App | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27530) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2796U.mp4) | NO PDF POSTED
+CODE2807U | Application Performance Management with Wavefront and a PKS Application | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27290) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2807U.mp4) | NO PDF POSTED
+CODE2995U | Demystifying Istio and Envoy   | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27566) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE2995U.mp4) | NO PDF POSTED
+CODE3057U | Be the Ninja: Jump-Start into Containers and Kubernetes for IT Ops | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27379) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3057U.mp4) | NO PDF POSTED
+CODE3059U | Use NSX-SM and Consul Connect to Federate Kubernetes and AWS EC2 Workloads | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28478) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3059U.mp4) | NO PDF POSTED
+CODE3102U | Getting Started with Service Mesh | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
+CODE3326U | Building and Controlling Modern REST APIs with OpenAPI and Kong | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27419) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3326U.mp4) | NO PDF POSTED
+CODE3327U | Getting Started with Terraform and Ansible | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27691) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3327U.mp4) | NO PDF POSTED
+CODE3328U | Kubernetes on AWS, You Don???t Need a PHD to Deploy and Manage | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27908) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3328U.mp4) | NO PDF POSTED
+CODE3330U | Automating Builds and Deployments, aka CI/CD for Dummies | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27338) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3330U.mp4) | NO PDF POSTED
+CODE3331U | Machine Learning in Less Than 1 Hour with Python | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27944) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3331U.mp4) | NO PDF POSTED
+CODE3332U | The Circle of (Token) Life | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28397) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3332U.mp4) | NO PDF POSTED
+CODE3333U | Save the IT Department: Add the Development Platform to Your Portfolio | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28263) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3333U.mp4) | NO PDF POSTED
+CODE3452U | How to not go broke with CI/CD deployments | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27780) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3452U.mp4) | NO PDF POSTED
+CODE3453U | The Fundamentals of Automating Software Delivery with Spinnaker | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28401) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3453U.mp4) | NO PDF POSTED
+CODE3454U | Why and How Spinnaker and Kubernetes Work Together Seamlessly | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/28945) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3454U.mp4) | NO PDF POSTED
+CODE3455U | Deploying an OpenShift Cluster with ???VMware Cloud Assembly??? | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27570) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3455U.mp4) | NO PDF POSTED
+CODE3456U | Deploying an OpenShift Cluster with ???VMware Cloud Assembly??? | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
+CODE3457U | Achieving predictable response time for micro service based applications | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27255) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3457U.mp4) | NO PDF POSTED
+CODE3458U | Achieving predictable response time for micro service based applications | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27254) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE3458U.mp4) | NO PDF POSTED
+CODE4013U | Shortcut and Better Secure Modern App Development with Bitnami Containers and Chart Foundations   | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
+CODE4019BU | Continuously Refresh your IT Self Service Catalogs, Providing Click-to-Deploy Simplicity for your Enterprise | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
+CODE4328U | Introduction to Raspberry Pi and Sensor Programming | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
+CODE4340U | Kubernetes on Rasberry Pi | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
+CODE4341U | Pulse IoT Center - Collecting Metrics and sending Commands using Raspberry PI | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
+CODE4840U | Continuous Verification: The Missing Link to Fully Automate Your Pipeline | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/27519) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CODE4840U.mp4) | NO PDF POSTED
+
