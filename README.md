@@ -1,14 +1,32 @@
 # VMworld 2019 Breakout Sessions
 
-Below are links to all the VMworld 2019 breakout sessions that have been published so far organized by either US or Europe. Enjoy!
+Below are links to all the VMworld 2019 breakout sessions that have been published so far organized by either US or Europe. Enjoy! 
 
 VMworld US Playback URLs: **[vmworld-us-playback-urls.md](vmworld-us-playback-urls.md)**
 
 VMworld EU Playback URLs: **[vmworld-eu-playback-urls.md](vmworld-eu-playback-urls.md)**
 
+**Note:** If you are looking to download sessions using command-line tools like wget or cURL, make sure to add a referer with value of `http://www.vmworld.com` or you will receive 403 error. Below are a few examples and you can also use the PowerShell script [downloadSessions.ps1](downloadSessions.ps1). 
+
+wget:
+```
+wget --referer http://www.vmware.com https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBI1967BU.mp4
+```
+
+cURL:
+```
+curl --referer http://www.vmware.com https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBI1967BU.mp4 -O HBI1967BU.mp4
+```
+
+PowerShell:
+```
+$headers = @{"referer" = "http://www.vmware.com"}
+Invoke-WebRequest -Uri https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBI1967BU.mp4 -Headers $headers -Outfile HBI1967BU.mp4
+```
+
 ## Top 20 VMworld US Sessions by Views (as of 09/03/19)
 
-| ﻿Index | Title                                                                                               | ViewCount |
+| Index | Title                                                                                               | ViewCount |
 |-------|-----------------------------------------------------------------------------------------------------|-----------|
 | 1     | [HBI1729BU] - PowerCLI Deep Dive                                                                    | 272       |
 | 2     | [CNET1072BU] - NSX-T Design for Small to Mid-Sized Data Centers                                     | 253       |
