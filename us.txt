@@ -203,6 +203,7 @@
 [HBI4115BU] - Running High Value Workloads on the Dell Technologies Cloud with VCF Integration and Dell EMC Storage#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBI4115BU.mp4
 [HBI4198BUS] - Any Workload Anywhere Enabling Hybrid Cloud from Data Center to the Edge#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBI4198BUS.mp4
 [HBI4250BUS] - How to Extend Availability to the Application Layer Across the Hybrid Cloud #https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBI4250BUS.mp4
+[HBI4500BU] - Project Pacific Technical Overview: Unifying vSphere and Kubernetes#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBI4500BU.mp4
 [HBI4937BU] - Introducing Project Pacific: Transforming vSphere into the App Platform of the Future#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBI4937BU.mp4
 [HBO1094BU] - Best Practices for vRealize Operations Workload Optimization#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBO1094BU.mp4
 [HBO1136BU] - It's Not 2005 Anymore: Stop Using Excel for Capacity Management#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBO1136BU.mp4
@@ -455,6 +456,7 @@
 [CNET5670BUS] - Application Visibility & Troubleshooting the Virtual Cloud Network and NSX#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/CNET5670BUS.mp4
 [NEDG1085BU] - Breaking with Tradition: How VMware IT Transformed WAN with VMware SD-WAN#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/NEDG1085BU.mp4
 [NEDG1333BU] - Consuming Service Provider SD-WAN Services#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/NEDG1333BU.mp4
+[NEDG2576BU] - Know, Understand, Execute: Network Monitoring and Analytics with SD-WAN#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/NEDG2576BU.mp4
 [NEDG2577BU] - Why Your Digital Transformation Needs SD-WAN#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/NEDG2577BU.mp4
 [NEDG2579BU] - SD-WAN Use Cases: Hybrid WAN, Cloud Shift, Security, and More#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/NEDG2579BU.mp4
 [NEDG2592BU] - All the Acronyms: uCPE, NFV, and SD-WAN for the Future and Beyond#https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/NEDG2592BU.mp4
