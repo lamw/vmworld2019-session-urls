@@ -4,9 +4,9 @@ Here is a nice summary list of all VMworld EU 2019 Breakout session with the res
 
 Total: 427
 
-Total Sessions Posted: 406
+Total Sessions Posted: 407
 
-Total Sessions NOT posted: 21
+Total Sessions NOT posted: 20
 
 ## Table of Content
 
@@ -471,7 +471,7 @@ Session | Title | Stream | Download | PDF
 ---|---|---|---|---
 CODE1166E | How We Utilize Cluster API to Deliver Kubernetes on Multiple Providers | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29499) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/CODE1166E.mp4) | NO PDF POSTED
 CODE1360E | Kubernetes Operators for VMware Enterprise PKS and VMware Cloud PKS | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29564) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/CODE1360E.mp4) | NO PDF POSTED
-CODE1379E | "If This Then That" for vSphere- The Power of Event-Driven Automation | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
+CODE1379E | "If This Then That" for vSphere- The Power of Event-Driven Automation | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29523) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/CODE1379E.mp4) | NO PDF POSTED
 CODE1458E | Using VMware EUC APIs for Automation from a Fling Engineer | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29954) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/CODE1458E.mp4) | NO PDF POSTED
 CODE1569E | How to Create Custom Auto-Remediation and Rules in VMware Secure State | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29479) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/CODE1569E.mp4) | NO PDF POSTED
 CODE2007E | An Essential Guide to Modernizing Windows-Based Workloads into Containers | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29169) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/CODE2007E.mp4) | NO PDF POSTED
