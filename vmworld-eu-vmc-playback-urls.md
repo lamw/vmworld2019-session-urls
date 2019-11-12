@@ -2,15 +2,15 @@
 
 Here are all VMware Cloud on AWS Breakout session at VMworld EU 2019 with the respective video playback & download URLs. Enjoy!
 
-Total: 72
+Total: 65
 
-Total Sessions Posted: 67
+Total Sessions Posted: 63
 
-Total Sessions NOT posted: 5
+Total Sessions NOT posted: 2
 
 ## Table of Content
 
-* [VMware Cloud on AWS](#vmware-cloud-on-aws) (72)
+* [VMware Cloud on AWS](#vmware-cloud-on-aws) (65)
 
 ## VMware Cloud on AWS
 Session | Title | Stream | Download | PDF
@@ -32,10 +32,6 @@ CNET1219BE | VMware Cloud on AWS: NSX-T Networking and Security Deep Dive | [STR
 CNET2067BE | VMware Cloud with NSX on AWS, Dell EMC, and AWS Outposts | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/30059) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/CNET2067BE.mp4) | NO PDF POSTED
 CNET2741BE | NSX Service Mesh: The Link to Federate and Secure a Multi-Cloud Future | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29707) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/CNET2741BE.mp4) | NO PDF POSTED
 CNET2841BE | NSX-T Deep Dive: Connecting Clouds and Data Centers via NSX-T VPN | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29712) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/CNET2841BE.mp4) | NO PDF POSTED
-CODE1379E | "If This Then That" for vSphere- The Power of Event-Driven Automation | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
-CODE2215E | Deep Dive on VMware Cloud on AWS APIs for Automation | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29333) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/CODE2215E.mp4) | NO PDF POSTED
-CODE2216E | The Art of Code That Writes Code | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29883) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/CODE2216E.mp4) | NO PDF POSTED
-CODE2219E | Python 101 for the vAdmin | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29801) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/CODE2219E.mp4) | NO PDF POSTED
 EIOT2715BE | Edge Computing Innovations in Office of the CTO and Dell Technologies | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29391) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/EIOT2715BE.mp4) | NO PDF POSTED
 HBI1027BE | VMware Cloud Foundation on VxRail: Accelerate Your Path to Hybrid Cloud | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/30001) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/HBI1027BE.mp4) | NO PDF POSTED
 HBI1145BE | VMware HCX for Cloud Providers Architecture Deep Dive | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/30068) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/HBI1145BE.mp4) | NO PDF POSTED
@@ -81,10 +77,7 @@ HCI3450BE | vSAN Best Practices | [STREAM](https://videos.vmworld.com/global/201
 HCI3451BE | vSphere External Storage for the Hybrid Cloud | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/30181) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/HCI3451BE.mp4) | NO PDF POSTED
 KUB1851BE | Managing Clusters: Project Pacific on vSphere & Tanzu Mission Control | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29610) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/KUB1851BE.mp4) | NO PDF POSTED
 MCO1781BE | Application Migration in Multi-Cloud Using Network Insight and CloudHealth | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29184) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/MCO1781BE.mp4) | NO PDF POSTED
-NETS3413KE | Networking and Security Keynote: Networking and Security for the Cloud Era  | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29679) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/NETS3413KE.mp4) | NO PDF POSTED
 OCTO1079BE | Hybrid Cloud Runtime Reference Architecture with the VMware OCTO | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29503) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/OCTO1079BE.mp4) | NO PDF POSTED
 SAI3508BES | Security Past, Present and Future ??? Securing your Evolving Infrastructure | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29834) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/SAI3508BES.mp4) | NO PDF POSTED
 SAI3509BES | Secure by Design VMs, Containers and Kubernetes with NSX-T & Trend Micro | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29827) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/SAI3509BES.mp4) | NO PDF POSTED
-VBT8004E | VMware Cloud on AWS: NSX Networking and Security Book Signing | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
-VBT8024E | How to Implement an Effective Hybrid Cloud Strategy | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED
 
