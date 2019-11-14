@@ -24,6 +24,31 @@ $headers = @{"referer" = "http://www.vmware.com"}
 Invoke-WebRequest -Uri https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBI1967BU.mp4 -Headers $headers -Outfile HBI1967BU.mp4
 ```
 
+## Top 20 VMworld EU Sessions by Views (as of 11/14/19)
+
+| Index | Title                                                                                                                  | ViewCount |
+|-------|------------------------------------------------------------------------------------------------------------------------|-----------|
+| 1     | [NETS3413KE] - Networking and Security Keynote: Networking and Security for the Cloud Era                              | 225       |
+| 2     | [HYB3544KE] - Hybrid Cloud Keynote: Transform Infrastructure and Operations from the Data Center to the Cloud          | 221       |
+| 3     | [DW3459KE] - Digital Workspace Keynote: Becoming a Champion of Employee Experience                                     | 195       |
+| 4     | [HBI2278BE] - 60 Minutes of Non-Uniform Memory Architecture                                                            | 164       |
+| 5     | [HCI3551KE] - HCI Keynote: The Foundation for your Future-proof Infrastructure                                         | 111       |
+| 6     | [MOD3543KE] - Modern Apps Keynote: VMware Tanzu and Your Kubernetes Journey                                            | 71        |
+| 7     | [CNET2061BE] - Next-Generation Reference Design with NSX-T: Part 1                                                     | 68        |
+| 8     | [HBI4937BE] - Introducing Project Pacific: Transforming vSphere into the App Platform of the Future                    | 61        |
+| 9     | [CNET1444BE] - Deploying and Designing Kubernetes with NSX-T (OpenShift, PKS, PAS)                                     | 58        |
+| 10    | [HCI1260BE] - Best Practices Guide to Running Your vCenter on vSAN                                                     | 56        |
+| 11    | [HBI1452BE] - Project Pacific: Supervisor Cluster Deep Dive                                                            | 50        |
+| 12    | [HBI1729BE] - PowerCLI Deep Dive                                                                                       | 48        |
+| 13    | [SEC3412KE] - Security Keynote: Intrinsic Security - How Your VMware Infrastructure Can Turn the Tide in Cybersecurity | 48        |
+| 14    | [HBI1761BE] - Project Pacific 101: The Future of vSphere                                                               | 48        |
+| 15    | [HBI4501BE] - Project Pacific: Native Pods Deep Dive                                                                   | 45        |
+| 16    | [BCA1542BE] - SQL Server Workloads on VMware vSphere: Configuration Recommendations                                    | 44        |
+| 17    | [ADV1077PE] - Ask the VMware End-User Computing Experts                                                                | 44        |
+| 18    | [KUB1208BE] - Deep Dive - Kubernetes Resource Management for vSphere Admins                                            | 43        |
+| 19    | [HBI2526BE] - Extreme Performance Series: Performance Best Practices                                                   | 41        |
+| 20    | [HBI1973BE] - The Next Generation of Lifecycle Management for vCenter Server                                           | 39        |
+
 ## Top 20 VMworld US Sessions by Views (as of 09/24/19)
 
 | Index | Title                                                                                               | ViewCount |
