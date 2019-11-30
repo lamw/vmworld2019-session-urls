@@ -24,30 +24,30 @@ $headers = @{"referer" = "http://www.vmware.com"}
 Invoke-WebRequest -Uri https://s3-us-west-1.amazonaws.com/vmworld-usa-2019/HBI1967BU.mp4 -Headers $headers -Outfile HBI1967BU.mp4
 ```
 
-## Top 20 VMworld EU Sessions by Views (as of 11/20/19)
+## Top 20 VMworld EU Sessions by Views (as of 11/30/19)
 
 | Index | Title                                                                                                                  | ViewCount |
 |-------|------------------------------------------------------------------------------------------------------------------------|-----------|
-| 1     | [HYB3544KE] - Hybrid Cloud Keynote: Transform Infrastructure and Operations from the Data Center to the Cloud          | 306       |
-| 2     | [NETS3413KE] - Networking and Security Keynote: Networking and Security for the Cloud Era                              | 289       |
-| 3     | [DW3459KE] - Digital Workspace Keynote: Becoming a Champion of Employee Experience                                     | 262       |
-| 4     | [HBI2278BE] - 60 Minutes of Non-Uniform Memory Architecture                                                            | 223       |
-| 5     | [HCI3551KE] - HCI Keynote: The Foundation for your Future-proof Infrastructure                                         | 154       |
-| 6     | [CODE1379E] - "If This Then That" for vSphere- The Power of Event-Driven Automation                                    | 117       |
-| 7     | [MOD3543KE] - Modern Apps Keynote: VMware Tanzu and Your Kubernetes Journey                                            | 112       |
-| 8     | [CNET2061BE] - Next-Generation Reference Design with NSX-T: Part 1                                                     | 108       |
-| 9     | [HBI4937BE] - Introducing Project Pacific: Transforming vSphere into the App Platform of the Future                    | 107       |
-| 10    | [HBI4501BE] - Project Pacific: Native Pods Deep Dive                                                                   | 97        |
-| 11    | [HBI1452BE] - Project Pacific: Supervisor Cluster Deep Dive                                                            | 87        |
-| 12    | [HBI1761BE] - Project Pacific 101: The Future of vSphere                                                               | 86        |
-| 13    | [HCI1260BE] - Best Practices Guide to Running Your vCenter on vSAN                                                     | 81        |
-| 14    | [SEC3412KE] - Security Keynote: Intrinsic Security - How Your VMware Infrastructure Can Turn the Tide in Cybersecurity | 79        |
-| 15    | [CNET1444BE] - Deploying and Designing Kubernetes with NSX-T (OpenShift, PKS, PAS)                                     | 79        |
-| 16    | [ADV1077PE] - Ask the VMware End-User Computing Experts                                                                | 65        |
-| 17    | [BCA1542BE] - SQL Server Workloads on VMware vSphere: Configuration Recommendations                                    | 64        |
-| 18    | [HBI1973BE] - The Next Generation of Lifecycle Management for vCenter Server                                           | 61        |
-| 19    | [HBI1729BE] - PowerCLI Deep Dive                                                                                       | 60        |
-| 20    | [HBI1989BE] - All About NVMe and Its Use Cases in a Cloud Environment                                                  | 56        |
+| 1     | [OCTO2944BE] - Armed and Ready: VMware Tech and Solutions on Arm-Based Systems                                         | 773       |
+| 2     | [HYB3544KE] - Hybrid Cloud Keynote: Transform Infrastructure and Operations from the Data Center to the Cloud          | 339       |
+| 3     | [NETS3413KE] - Networking and Security Keynote: Networking and Security for the Cloud Era                              | 327       |
+| 4     | [DW3459KE] - Digital Workspace Keynote: Becoming a Champion of Employee Experience                                     | 286       |
+| 5     | [HBI2278BE] - 60 Minutes of Non-Uniform Memory Architecture                                                            | 254       |
+| 6     | [CODE1379E] - "If This Then That" for vSphere- The Power of Event-Driven Automation                                    | 194       |
+| 7     | [HCI3551KE] - HCI Keynote: The Foundation for your Future-proof Infrastructure                                         | 169       |
+| 8     | [HBI4937BE] - Introducing Project Pacific: Transforming vSphere into the App Platform of the Future                    | 134       |
+| 9     | [CNET2061BE] - Next-Generation Reference Design with NSX-T: Part 1                                                     | 132       |
+| 10    | [MOD3543KE] - Modern Apps Keynote: VMware Tanzu and Your Kubernetes Journey                                            | 126       |
+| 11    | [HBI4501BE] - Project Pacific: Native Pods Deep Dive                                                                   | 126       |
+| 12    | [HBI1452BE] - Project Pacific: Supervisor Cluster Deep Dive                                                            | 114       |
+| 13    | [HBI1761BE] - Project Pacific 101: The Future of vSphere                                                               | 113       |
+| 14    | [CNET1444BE] - Deploying and Designing Kubernetes with NSX-T (OpenShift, PKS, PAS)                                     | 96        |
+| 15    | [SEC3412KE] - Security Keynote: Intrinsic Security - How Your VMware Infrastructure Can Turn the Tide in Cybersecurity | 92        |
+| 16    | [HCI1260BE] - Best Practices Guide to Running Your vCenter on vSAN                                                     | 89        |
+| 17    | [HBI1973BE] - The Next Generation of Lifecycle Management for vCenter Server                                           | 76        |
+| 18    | [BCA1542BE] - SQL Server Workloads on VMware vSphere: Configuration Recommendations                                    | 71        |
+| 19    | [HBI1729BE] - PowerCLI Deep Dive                                                                                       | 71        |
+| 20    | [ADV1077PE] - Ask the VMware End-User Computing Experts                                                                | 68        |
 
 ## Top 20 VMworld US Sessions by Views (as of 09/24/19)
 
